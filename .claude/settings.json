@@ -6,5 +6,8 @@
         "repo": "wondelai/skills"
       }
     }
+  },
+  "enabledPlugins": {
+    "ux-design@wondelai-skills": true
   }
 }
