@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "wondelai-skills": {
+      "source": {
+        "source": "github",
+        "repo": "wondelai/skills"
+      }
+    }
+  }
+}
